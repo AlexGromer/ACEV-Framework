@@ -1,0 +1,318 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Atlas",
+      "tag": "#MOC",
+      "pattern": ""
+    },
+    {
+      "folder": "Archive",
+      "tag": "#Archive",
+      "pattern": ""
+    },
+    {
+      "folder": "Cards",
+      "tag": "#Cards",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Articles",
+      "tag": "#Efforts/Articles",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Bussiness",
+      "tag": "#Efforts/Bussiness",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Codex",
+      "tag": "#Efforts/Codex",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Community",
+      "tag": "#Efforts/Community",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Contacts",
+      "tag": "#Efforts/Contacts",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Dreams",
+      "tag": "#Efforts/Dreams",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Education",
+      "tag": "#Efforts/Education",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Finance",
+      "tag": "#Efforts/Finance",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Infrastructure",
+      "tag": "#Efforts/Infrastructure",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Investigations",
+      "tag": "#Efforts/Investigations",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Jobs",
+      "tag": "#Efforts/Jobs",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Lifestyle",
+      "tag": "#Efforts/Lifestyle",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Manuals",
+      "tag": "#Efforts/Manuals",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Meetings",
+      "tag": "#Efforts/Meetings",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Medicine",
+      "tag": "#Efforts/Medicine",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Phylosophy",
+      "tag": "#Efforts/Phylosophy",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Places",
+      "tag": "#Efforts/Places",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Planing",
+      "tag": "#Efforts/Planing",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Posts",
+      "tag": "#Efforts/Posts",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Reports",
+      "tag": "#Efforts/Reports",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Researches",
+      "tag": "#Efforts/Researches",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Science",
+      "tag": "#Efforts/Science",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Self-development",
+      "tag": "#Efforts/Self-development",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Society",
+      "tag": "#Efforts/Society",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Strategies",
+      "tag": "#Efforts/Strategies",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Team",
+      "tag": "#Efforts/Team",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Training",
+      "tag": "#Efforts/Training",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Travels",
+      "tag": "#Efforts/Travels",
+      "pattern": ""
+    },
+    {
+      "folder": "Efforts/Projects",
+      "tag": "#Efforts/Projects",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Articles",
+      "tag": "#Vaults/Articles",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Bussiness",
+      "tag": "#Vaults/Bussiness",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Codex",
+      "tag": "#Vaults/Codex",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Community",
+      "tag": "#Vaults/Community",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Contacts",
+      "tag": "#Vaults/Contacts",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Education",
+      "tag": "#Vaults/Education",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Dreams",
+      "tag": "#Vaults/Dreams",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Finance",
+      "tag": "#Vaults/Finance",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Infrastructure",
+      "tag": "#Vaults/Infrastructure",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Investigations",
+      "tag": "#Vaults/Investigations",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Lifestyle",
+      "tag": "#Vaults/Lifestyle",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Jobs",
+      "tag": "#Vaults/Jobs",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Manuals",
+      "tag": "#Vaults/Manuals",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Medicine",
+      "tag": "#Vaults/Medicine",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Meetings",
+      "tag": "#Vaults/Meetings",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Phylosophy",
+      "tag": "#Vaults/Phylosophy",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Places",
+      "tag": "#Vaults/Places",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Planing",
+      "tag": "#Vaults/Planing",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Reports",
+      "tag": "#Vaults/Reports",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Posts",
+      "tag": "#Vaults/Posts",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Researches",
+      "tag": "#Vaults/Researches",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Science",
+      "tag": "#Vaults/Science",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Self-development",
+      "tag": "#Vaults/Self-development",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Society",
+      "tag": "#Vaults/Society",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Strategies",
+      "tag": "#Vaults/Strategies",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Team",
+      "tag": "#Vaults/Team",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Training",
+      "tag": "#Vaults/Training",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Travels",
+      "tag": "#Vaults/Travels",
+      "pattern": ""
+    },
+    {
+      "folder": "Vaults/Projects",
+      "tag": "#Vaults/Projects",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Templates"
+    }
+  ]
+}

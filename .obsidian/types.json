@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Порядковый номер в группе": "number",
+    "Дата создания": "datetime",
+    "Источники": "multitext",
+    "Тип": "text",
+    "Тема": "text"
+  }
+}
